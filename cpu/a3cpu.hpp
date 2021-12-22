@@ -1,7 +1,3 @@
-/*  YOUR_FIRST_NAME
- *  YOUR_LAST_NAME
- *  YOUR_UBIT_NAME
- */
 #define _USE_MATH_DEFINES 
 #include <cmath>
 #ifndef A3_HPP
